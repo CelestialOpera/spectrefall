@@ -1,0 +1,83 @@
+bookmarks = {
+	bookmark = {
+		name = "AFALLING_SPECTRE_NAME"
+		desc = "AFALLING_SPECTRE_DESC"
+		date = 2040.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "GER"
+		default = yes
+		
+		"RAJ"={
+			history = "FRA_AFALLING_SPECTRE_DESC"
+			ideology = neo_liberal
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		
+		"JAP"={
+			history = "USA_AFALLING_SPECTRE_DESC"
+			ideology = neo_liberal
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"USA"={
+			history = "ENG_AFALLING_SPECTRE_DESC"
+			ideology = neo_liberal
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		
+		"EUR"={
+			history = "GER_AFALLING_SPECTRE_DESC"
+			ideology = fascist
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		
+		"PRC"={
+			history = "ITA_AFALLING_SPECTRE_DESC"
+			ideology = fascist
+			ideas = {
+			}	
+			focuses = {
+			}		
+		}
+		"SOV"={
+			history = "JAP_AFALLING_SPECTRE_DESC"
+			ideology = fascist
+			ideas = {
+			}	
+			focuses = {
+			}			
+		}
+		"BRA"={
+			history = "SOV_AFALLING_SPECTRE_DESC"
+			ideology = communist
+			ideas = {
+			}
+			focuses = {
+			}	
+		}
+	
+
+		"---"={
+			history = "OTHER_AFALLING_SPECTRE_DESC"
+		}
+
+
+		# minors from DLC ####
+	
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

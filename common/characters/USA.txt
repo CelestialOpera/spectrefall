@@ -1,0 +1,18 @@
+characters={
+
+	USA_hunter_biden={ #Sigma Chad
+		name=USA_hunter_biden
+		portraits={
+			civilian={
+				large="gfx/leaders/USA/Hunter_Biden.dds"
+			}
+		}
+		country_leader={
+			ideology=neo_liberal_ideology
+			traits={ }
+			expire="2064.1.1.1"
+			id=-1
+		}
+	}
+
+}
