@@ -1,0 +1,25 @@
+
+state = {
+	id = 835
+	name = "STATE_835"
+	manpower = 459600
+	
+	state_category = rural
+
+	history = {
+		owner = AZR
+		add_core_of = AZR
+
+		buildings = {
+		
+			infrastructure = 1
+			
+		}
+	}
+
+	provinces = {
+		6997 
+	}
+
+	local_supplies = 0.0 
+}
