@@ -827,3 +827,7 @@ CAP = {
 	color = rgb { 45 76 191 }
 	color_ui = rgb { 45 76 191 }
 }
+URB = {
+	color = rgb { 104 111 119 }
+	color_ui = rgb { 104 111 119 }
+}
