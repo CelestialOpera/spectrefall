@@ -93,10 +93,9 @@ if = {
 		improved_airplane_launcher = 1
 	}
 }
-
-
 set_convoys = 500
 
+recruit_character = EUR_sophie_hermans
 
 set_politics = {
 	ruling_party = neo_liberal
