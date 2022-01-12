@@ -8,9 +8,9 @@ state= {
 	
 	state_category = town
 
-	history=
-	{
-		owner = DEN
+	history = {
+		owner = EUR
+		add_core_of = EUR
 		victory_points = {
 			6364 3 
 		}
@@ -25,11 +25,10 @@ state= {
 				naval_base = 1
 			}
 		}
-		add_core_of = DEN
 	}
-	provinces=
-	{
-316 332 394 399 3206 3277 3341 6235 6364 11251 	}
+	provinces = {
+		316 332 394 399 3206 3277 3341 6235 6364 11251 	
+	}
 
 	local_supplies=0.0 
 }

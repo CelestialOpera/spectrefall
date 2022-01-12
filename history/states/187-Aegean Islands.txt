@@ -11,7 +11,8 @@ state={
 	}
 
 	history={
-		owner = GRE
+		owner = EUR
+		add_core_of = EUR
 		buildings = {
 			infrastructure = 1
 			dockyard = 1
@@ -28,7 +29,6 @@ state={
 		victory_points = {
 			8435 1
 		}
-		add_core_of = GRE
 	}
 
 	provinces={
