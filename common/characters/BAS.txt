@@ -1,0 +1,18 @@
+characters={
+
+	BAS_elvin_ghosh={ #Sophie Hermans
+		name=BAS_elvin_ghosh
+		portraits={
+			civilian={
+				large="gfx/leaders/BAS/Elvin_Ghosh.dds"
+			}
+		}
+		country_leader={
+			ideology=moderate_conservative_ideology
+			traits={ }
+			expire="2064.1.1.1"
+			id=-1
+		}
+	}
+
+}

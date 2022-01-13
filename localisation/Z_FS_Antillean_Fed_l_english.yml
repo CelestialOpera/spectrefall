@@ -1,0 +1,53 @@
+﻿l_english:
+ 
+ #Country Name
+ BAS_fascist:0 "Antillean Federation"
+ BAS_fascist_DEF:0 "The Antillean Federation"
+ BAS_fascist_ADJ:0 "Antillean"
+ BAS_new_world_theorist:0 "Antillean Federation"
+ BAS_new_world_theorist_DEF:0 "The Antillean Federation"
+ BAS_new_world_theorist_ADJ:0 "Antillean"
+ BAS_reactionary_autocract:0 "Antillean Federation"
+ BAS_reactionary_autocract_DEF:0 "The Antillean Federation"
+ BAS_reactionary_autocract_ADJ:0 "Antillean"
+ BAS_sovereign_democrat:0 "Antillean Federation"
+ BAS_sovereign_democrat_DEF:0 "The Antillean Federation"
+ BAS_sovereign_democrat_ADJ:0 "Antillean"
+ BAS_moderate_conservative:0 "Antillean Federation"
+ BAS_moderate_conservative_DEF:0 "The Antillean Federation"
+ BAS_moderate_conservative_ADJ:0 "Antillean"
+ BAS_centrist:0 "Antillean Federation"
+ BAS_centrist_DEF:0 "The Antillean Federation"
+ BAS_centrist_ADJ:0 "Antillean"
+ BAS_neo_liberal:0 "Antillean Federation"
+ BAS_neo_liberal_DEF:0 "The Antillean Federation"
+ BAS_neo_liberal_ADJ:0 "Antillean"
+ BAS_progressive:0 "Antillean Federation"
+ BAS_progressive_DEF:0 "The Antillean Federation"
+ BAS_progressive_ADJ:0 "Antillean"
+ BAS_socialist:0 "Antillean Federation"
+ BAS_socialist_DEF:0 "The Antillean Federation"
+ BAS_socialist_ADJ:0 "Antillean"
+ BAS_neo_leftist:0 "Antillean Federation"
+ BAS_neo_leftist_DEF:0 "The Antillean Federation"
+ BAS_neo_leftist_ADJ:0 "Antillean"
+ BAS_communist:0 "Antillean Federation"
+ BAS_communist_DEF:0 "The Antillean Federation"
+ BAS_communist_ADJ:0 "Antillean"
+ 
+ 
+ #Leaders
+ BAS_elvin_ghosh:0 "Elvin Ghosh"
+ 
+ #Parties
+ BAS_sovereign_democrat_party:0 "OAR"
+ BAS_sovereign_democrat_party_long:0 "One Antillean Republic"
+ BAS_moderate_conservative_party:0 "United"
+ BAS_moderate_conservative_party_long:0 "United Conservative Liberal Party"
+ 
+ BAS_neo_liberal_party:0 "Federalists"
+ BAS_neo_liberal_party_long:0 "Federal Union Party"
+ BAS_progressive_party:0 "People's"
+ BAS_progressive_party_long:0 "People's Popular Party"
+ BAS_socialist_party:0 "Lilypad"
+ BAS_socialist_party_long:0 "Lilypad Party"

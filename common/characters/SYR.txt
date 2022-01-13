@@ -1,0 +1,18 @@
+characters={
+
+	SYR_hafez_al_assad_jr ={ #Sigma Chad
+		name=SYR_hafez_al_assad_jr 
+		portraits={
+			civilian={
+				large="gfx/leaders/SYR/Hafez_al_Assad_Jr.dds"
+			}
+		}
+		country_leader={
+			ideology=sovereign_democrat_ideology
+			traits={ }
+			expire="2064.1.1.1"
+			id=-1
+		}
+	}
+
+}

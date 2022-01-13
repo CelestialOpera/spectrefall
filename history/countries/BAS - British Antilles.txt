@@ -9,14 +9,16 @@ set_technology = {
 
 set_convoys = 5
 
+recruit_character = BAS_elvin_ghosh
+
 set_politics = {
-	ruling_party = neo_liberal
+	ruling_party = moderate_conservative
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	neo_liberal = 75
+	moderate_conservative = 75
 	fascist = 1
 	communist = 1
 	reactionary_autocract = 23
