@@ -81,7 +81,7 @@ if = {
 set_popularities = {
 	neo_liberal = 30
 	communist = 40
-	reactionary_autocract = 30
+	reactionary_autocrat = 30
 }
 
 create_country_leader = {

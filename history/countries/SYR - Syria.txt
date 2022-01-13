@@ -11,7 +11,7 @@ set_convoys = 5
 recruit_character = SYR_hafez_al_assad_jr
 
 set_politics = {
-	ruling_party = reactionary_autocract
+	ruling_party = reactionary_autocrat
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -26,7 +26,7 @@ set_popularities = {
 	centrist = 0
 	moderate_conservative = 0
 	sovereign_democrat = 100
-	reactionary_autocract = 0
+	reactionary_autocrat = 0
 	new_world_theorist = 0
 	fascist = 0
 }

@@ -24,7 +24,7 @@ set_popularities = {
 	centrist = 0
 	moderate_conservative = 0
 	sovereign_democrat = 0
-	reactionary_autocract = 0
+	reactionary_autocrat = 0
 	new_world_theorist = 0
 	fascist = 0
 }

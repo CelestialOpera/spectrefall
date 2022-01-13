@@ -105,7 +105,7 @@ if = {
 
 set_convoys = 20
 set_politics = {
-	ruling_party = reactionary_autocract
+	ruling_party = reactionary_autocrat
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -114,7 +114,7 @@ set_popularities = {
 	neo_liberal = 20
 	fascist = 40
 	communist = 10
-	reactionary_autocract = 30
+	reactionary_autocrat = 30
 }
 
 create_country_leader = {

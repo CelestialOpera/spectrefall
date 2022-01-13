@@ -46,12 +46,12 @@ set_convoys = 400
 
 
 set_politics = {
-	ruling_party = reactionary_autocract
+	ruling_party = reactionary_autocrat
 	last_election = "1932.11.8"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	reactionary_autocract = 99
+	reactionary_autocrat = 99
 	communist = 1
 }

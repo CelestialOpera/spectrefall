@@ -70,6 +70,6 @@ set_politics = {
 
 set_popularities = {
 	neo_liberal = 50
-	reactionary_autocract = 30
+	reactionary_autocrat = 30
 	communist = 20
 }

@@ -328,11 +328,11 @@ ideologies = {
 		ai_fascist = yes # uses the fascist AI behaviour
 	}
 	
-	reactionary_autocract = {
+	reactionary_autocrat = {
 	
 		types = {
 		
-			reactionary_autocract_ideology = {
+			reactionary_autocrat_ideology = {
 			}
 		}
 		

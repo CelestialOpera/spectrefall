@@ -20,7 +20,7 @@ set_popularities = {
 	neo_liberal = 35
 	fascist = 25
 	communist = 30
-	reactionary_autocract = 10
+	reactionary_autocrat = 10
 }
 
 create_country_leader = {
@@ -39,7 +39,7 @@ create_country_leader = {
 	desc = ""
 	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_land_1.dds"
 	expire = "1965.1.1"
-	ideology = reactionary_autocract_ideology
+	ideology = reactionary_autocrat_ideology
 	traits = {
 		#
 	}

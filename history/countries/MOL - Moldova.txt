@@ -18,5 +18,5 @@ set_popularities = {
 	neo_liberal = 55
 	fascist = 1
 	communist = 30
-	reactionary_autocract = 14
+	reactionary_autocrat = 14
 }

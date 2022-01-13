@@ -44,7 +44,7 @@ create_country_leader = {
 	name = "Rudolf Szabó"
 	desc = ""
 	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
-	ideology = reactionary_autocract_ideology
+	ideology = reactionary_autocrat_ideology
 	traits = {
 		#
 	}

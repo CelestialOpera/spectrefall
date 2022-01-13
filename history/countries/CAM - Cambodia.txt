@@ -98,7 +98,7 @@ set_politics = {
 set_popularities = {
 	neo_liberal = 40
 	communist = 25
-	reactionary_autocract = 35
+	reactionary_autocrat = 35
 }
 
 create_country_leader = {

@@ -19,7 +19,7 @@ set_popularities = {
 	neo_liberal = 75
 	fascist = 1
 	communist = 1
-	reactionary_autocract = 23
+	reactionary_autocrat = 23
 }
 
 #create_country_leader = {

@@ -41,7 +41,7 @@ if = {
 }
 
 set_politics = {
-	ruling_party = reactionary_autocract
+	ruling_party = reactionary_autocrat
 	last_election = "1935.3.31"
 	election_frequency = 48
 	elections_allowed = yes
@@ -49,5 +49,5 @@ set_politics = {
 set_popularities = {
 	neo_liberal = 25
 	fascist = 31
-	reactionary_autocract = 44
+	reactionary_autocrat = 44
 }

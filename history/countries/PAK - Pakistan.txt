@@ -21,7 +21,7 @@ set_convoys = 20
 
 
 set_politics = {
-	ruling_party = reactionary_autocract
+	ruling_party = reactionary_autocrat
 	last_election = "1935.11.14"
 	election_frequency = 48
 	elections_allowed = no
@@ -30,5 +30,5 @@ set_popularities = {
 	neo_liberal = 17
 	fascist = 2
 	communist = 1
-	reactionary_autocract = 80
+	reactionary_autocrat = 80
 }

@@ -10,7 +10,7 @@ set_technology = {
 set_convoys = 20
 
 set_politics = {
-	ruling_party = reactionary_autocract
+	ruling_party = reactionary_autocrat
 	last_election = "1936.1.1"
 	elections_allowed = no
 }
@@ -18,14 +18,14 @@ set_popularities = {
 	neo_liberal = 38
 	fascist = 6
 	communist = 6
-	reactionary_autocract = 50
+	reactionary_autocrat = 50
 }
 
 create_country_leader = {
 	name = "David Kalakaua Kawananakoa"
 	desc = ""
 	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_land_5.dds"
-	ideology = reactionary_autocract_ideology
+	ideology = reactionary_autocrat_ideology
 	traits = {
 		#
 	}

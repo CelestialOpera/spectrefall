@@ -16,12 +16,12 @@ set_country_flag = monroe_doctrine
 
 
 set_politics = {
-	ruling_party = reactionary_autocract
+	ruling_party = reactionary_autocrat
 	last_election = "1934.11.11"
 	election_frequency = 72
 	elections_allowed = yes
 }
 
 set_popularities = {
-	reactionary_autocract = 100
+	reactionary_autocrat = 100
 }

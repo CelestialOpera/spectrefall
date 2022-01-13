@@ -14,5 +14,5 @@ set_politics = {
 }
 set_popularities = {
 	fascist = 80
-	reactionary_autocract = 20
+	reactionary_autocrat = 20
 }

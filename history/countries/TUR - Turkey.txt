@@ -93,13 +93,13 @@ if = {
 
 
 set_politics = {
-	ruling_party = reactionary_autocract
+	ruling_party = reactionary_autocrat
 	last_election = "1935.2.8"
 	elections_allowed = yes
 }
 set_popularities = {
 	neo_liberal = 6
-	reactionary_autocract = 94
+	reactionary_autocrat = 94
 }
 
 set_convoys = 20

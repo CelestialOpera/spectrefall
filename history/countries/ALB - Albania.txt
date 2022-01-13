@@ -10,14 +10,14 @@ set_technology = {
 
 
 set_politics = {
-	ruling_party = reactionary_autocract
+	ruling_party = reactionary_autocrat
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	reactionary_autocract = 100
+	reactionary_autocrat = 100
 }
 
 set_convoys = 5

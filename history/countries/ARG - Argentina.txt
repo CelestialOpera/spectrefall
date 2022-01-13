@@ -54,7 +54,7 @@ set_country_flag = monroe_doctrine
 
 set_convoys = 120
 set_politics = {
-	ruling_party = reactionary_autocract
+	ruling_party = reactionary_autocrat
 	last_election = "1931.11.8"
 	election_frequency = 72
 	elections_allowed = yes
@@ -63,7 +63,7 @@ set_popularities = {
 	neo_liberal = 5
 	fascist = 5
 	communist = 12
-	reactionary_autocract = 78
+	reactionary_autocrat = 78
 }
 
 

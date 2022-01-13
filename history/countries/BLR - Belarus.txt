@@ -82,7 +82,7 @@ if = {
 
 set_popularities = {
 	neo_liberal = 15
-	reactionary_autocract = 20
+	reactionary_autocrat = 20
 	communist = 60
 	fascist = 5
 }
