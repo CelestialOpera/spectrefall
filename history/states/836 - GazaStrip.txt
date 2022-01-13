@@ -1,0 +1,25 @@
+
+state = {
+	id = 836
+	name = "STATE_836"
+	manpower = 2790210
+	
+	state_category = enclave
+
+	history = {
+		owner = PAL
+		add_core_of = PAL
+
+		buildings = {
+		
+			infrastructure = 2
+			
+		}
+	}
+
+	provinces = {
+		4088 
+	}
+
+	local_supplies = 0.0 
+}
