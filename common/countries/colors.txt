@@ -831,3 +831,7 @@ URB = {
 	color = rgb { 104 111 119 }
 	color_ui = rgb { 104 111 119 }
 }
+DPK = {
+	color = rgb { 255  140  140 }
+	color_ui = rgb { 255  140  140 }	
+}
