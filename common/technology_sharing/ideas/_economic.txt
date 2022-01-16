@@ -33,7 +33,7 @@ ideas = {
 				OR = {
 					has_war_support > 0.5
 					has_war = yes
-					has_completed_focus = USA_limited_intervention
+					#has_completed_focus = USA_limited_intervention
 				}
 			}
 
@@ -66,7 +66,7 @@ ideas = {
 				OR = {
 					has_war_support > 0.75
 					has_war = yes
-					has_completed_focus = USA_limited_intervention
+					#has_completed_focus = USA_limited_intervention
 				}
 			}
 
@@ -107,7 +107,7 @@ ideas = {
 				}
 				if = {
 					limit = {
-						has_completed_focus = USA_limited_intervention
+						#has_completed_focus = USA_limited_intervention
 						has_defensive_war = no
 					}
 					has_war_support > 0.3
@@ -131,7 +131,7 @@ ideas = {
 				if = {
 					limit = {
 						tag = USA
-						has_completed_focus = USA_limited_intervention
+						#has_completed_focus = USA_limited_intervention
 						has_defensive_war = no
 					}
 					USA_congress_large_opposition = yes
@@ -182,13 +182,13 @@ ideas = {
 						has_dlc = "Death or Dishonor"
 					}
 					OR = {
-						has_completed_focus = HUN_secret_rearmament
+						#has_completed_focus = HUN_secret_rearmament
 						NOT = { has_idea = HUN_treaty_of_triannon }
 					}
 				}
 				if = {
 					limit = {
-						has_completed_focus = USA_limited_intervention
+						#has_completed_focus = USA_limited_intervention
 						has_defensive_war = no
 					}
 					has_war_support > 0.5
@@ -225,7 +225,7 @@ ideas = {
 				if = {
 					limit = {
 						tag = USA
-						has_completed_focus = USA_limited_intervention
+						#has_completed_focus = USA_limited_intervention
 						has_defensive_war = no
 					}
 					USA_congress_large_opposition = yes
@@ -271,7 +271,7 @@ ideas = {
 				}
 				if = {
 					limit = {
-						has_completed_focus = USA_limited_intervention
+						#has_completed_focus = USA_limited_intervention
 						has_defensive_war = no
 					}
 					has_war_support > 0.75
@@ -307,7 +307,7 @@ ideas = {
 				if = {
 					limit = {
 						tag = USA
-						has_completed_focus = USA_limited_intervention
+						#has_completed_focus = USA_limited_intervention
 						has_defensive_war = no
 					}
 					USA_congress_large_opposition = yes
@@ -369,7 +369,7 @@ ideas = {
 				}
 				if = {
 					limit = {
-						has_completed_focus = USA_limited_intervention
+						#has_completed_focus = USA_limited_intervention
 						has_defensive_war = no
 					}
 					has_war_support > 0.9
@@ -393,7 +393,7 @@ ideas = {
 				if = {
 					limit = {
 						tag = USA
-						has_completed_focus = USA_limited_intervention
+						#has_completed_focus = USA_limited_intervention
 						has_defensive_war = no
 					}
 					USA_congress_large_opposition = yes
@@ -547,8 +547,8 @@ ideas = {
 			allowed_to_remove = {
 				OR = {
 					has_war = yes
-					has_completed_focus = POL_integrate_gdansk_industries
-					has_completed_focus = POL_expand_gdynia_seaport
+					#has_completed_focus = POL_integrate_gdansk_industries
+					#has_completed_focus = POL_expand_gdynia_seaport
 					NOT = {
 						owns_state = 85
 						owns_state = 807
@@ -574,7 +574,7 @@ ideas = {
 						original_tag = SPR
 						has_dlc = "La Resistance"
 					}
-					NOT = { has_completed_focus = SPR_all_must_bear_the_torch }
+					NOT = { #has_completed_focus = SPR_all_must_bear_the_torch }
 				}
 			}
 
@@ -638,7 +638,7 @@ ideas = {
 						original_tag = SPR
 						has_dlc = "La Resistance"
 					}
-					NOT = { has_completed_focus = SPR_all_must_bear_the_torch }
+					NOT = { #has_completed_focus = SPR_all_must_bear_the_torch }
 				}
 			}
 
@@ -722,7 +722,7 @@ ideas = {
 						original_tag = SPR
 						has_dlc = "La Resistance"
 					}
-					NOT = { has_completed_focus = SPR_all_must_bear_the_torch }
+					NOT = { #has_completed_focus = SPR_all_must_bear_the_torch }
 				}
 			}
 
