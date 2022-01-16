@@ -835,3 +835,7 @@ DPK = {
 	color = rgb { 255  140  140 }
 	color_ui = rgb { 255  140  140 }	
 }
+TIM = {
+	color = rgb { 220  208  255 }
+	color_ui = rgb { 220  208  255 }	
+}
