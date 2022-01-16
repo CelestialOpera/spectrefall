@@ -1,10 +1,10 @@
 characters={
 
-	EUR_sophie_hermans={ #Sophie Hermans
-		name=EUR_sophie_hermans
+	EUF_sophie_hermans={ #Sophie Hermans
+		name=EUF_sophie_hermans
 		portraits={
 			civilian={
-				large="gfx/leaders/EUR/Sophie_Hermans.dds"
+				large="gfx/leaders/EUF/Sophie_Hermans.dds"
 			}
 		}
 		country_leader={

@@ -6,7 +6,7 @@ state={
 	
 	history=
 	{
-		owner = EUR
+		owner = EUF
 		buildings = {
 			infrastructure = 2
 			13019 = {

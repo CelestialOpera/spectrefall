@@ -19,8 +19,8 @@ state={
 			arms_factory = 1
 
 		}
-		owner = EUR
-		add_core_of = EUR
+		owner = EUF
+		add_core_of = EUF
 	}
 
 	provinces={

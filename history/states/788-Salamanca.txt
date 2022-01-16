@@ -6,8 +6,8 @@ state={
 		tungsten=10.000 #added due to Portugal Setup
 	}
 	history={
-		owner = EUR
-		add_core_of = EUR
+		owner = EUF
+		add_core_of = EUF
 		victory_points = {
 			3874 1 
 		}

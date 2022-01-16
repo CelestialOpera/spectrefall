@@ -8,14 +8,14 @@ state=
 	
 	history =
 	{
-		owner = EUR
+		owner = EUF
 		buildings = {
 			infrastructure = 3
 		}
 		victory_points = {
 			9627 3 
 		}
-		add_core_of = EUR
+		add_core_of = EUF
 	}
 	provinces={
 		596 665 3631 3654 6650 6672 9596 9627 }

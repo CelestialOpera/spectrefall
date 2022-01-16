@@ -4,7 +4,7 @@ bookmarks = {
 		desc = "AFALLING_SPECTRE_DESC"
 		date = 2040.1.1.12
 		picture = "GFX_select_date_1936"
-		default_country = "GER"
+		default_country = "EUF"
 		default = yes
 		
 		"RAJ"={
@@ -33,7 +33,7 @@ bookmarks = {
 			}
 		}
 		
-		"EUR"={
+		"EUF"={
 			history = "GER_AFALLING_SPECTRE_DESC"
 			ideology = fascist
 			ideas = {
@@ -50,9 +50,9 @@ bookmarks = {
 			focuses = {
 			}		
 		}
-		"SOV"={
+		"URB"={
 			history = "JAP_AFALLING_SPECTRE_DESC"
-			ideology = fascist
+			ideology = moderate_conservative
 			ideas = {
 			}	
 			focuses = {

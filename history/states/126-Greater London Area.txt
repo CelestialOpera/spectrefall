@@ -6,7 +6,7 @@ state={
 	state_category = megalopolis
 
 	history={
-		owner = EUR
+		owner = EUF
 		victory_points = {
 			6103 50 
 		}
@@ -22,7 +22,7 @@ state={
 				naval_base = 10
 			}
 		}
-		add_core_of = EUR
+		add_core_of = EUF
 	}
 
 	provinces={
