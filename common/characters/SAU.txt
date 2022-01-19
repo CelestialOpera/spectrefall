@@ -1,0 +1,18 @@
+characters={
+
+	SAU_mohammed_bin_salman={ #Mohammed bin Salman
+		name=SAU_mohammed_bin_salman
+		portraits={
+			civilian={
+				large="gfx/leaders/SAU/Mohammed_bin_Salman.dds"
+			}
+		}
+		country_leader={
+			ideology=reactionary_autocrat_ideology
+			traits={ }
+			expire="2064.1.1.1"
+			id=-1
+		}
+	}
+
+}

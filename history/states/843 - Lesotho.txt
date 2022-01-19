@@ -1,0 +1,24 @@
+
+state = {
+	id = 843
+	name = "STATE_843"
+	manpower = 3012412
+	
+	state_category = large_town
+
+	history = {
+		owner = LES
+		add_core_of = LES
+		buildings = {
+			
+			infrastructure = 3
+			
+		}
+	}
+
+	provinces = {
+		4556 
+	}
+
+	local_supplies = 0.0 
+}

@@ -1,0 +1,30 @@
+﻿capital = 841
+
+#oob = ""
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 5
+
+set_politics = {
+	ruling_party = neo_liberal
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	communist = 0
+	neo_leftist = 0
+	socialist = 0
+	progressive = 0
+	neo_liberal = 0
+	centrist = 0
+	moderate_conservative = 0
+	sovereign_democrat = 0
+	reactionary_autocrat = 100
+	new_world_theorist = 0
+	fascist = 0
+}

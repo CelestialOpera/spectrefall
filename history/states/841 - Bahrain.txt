@@ -1,0 +1,27 @@
+
+state = {
+	id = 841
+	name = "STATE_841"
+	manpower = 3104121
+	
+	state_category = large_town
+
+	history = {
+		owner = BHR
+		add_core_of = BHR
+		buildings = {
+			13236 = {
+				naval_base = 3
+				coastal_bunker = 1
+			}
+			infrastructure = 3
+			
+		}
+	}
+
+	provinces = {
+		13236 
+	}
+
+	local_supplies = 0.0 
+}

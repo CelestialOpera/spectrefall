@@ -1,0 +1,29 @@
+
+state = {
+	id = 839
+	name = "STATE_839"
+	manpower = 599212
+	
+	state_category = enclave
+
+	history = {
+		owner = BRU
+		add_core_of = BRU
+		victory_points = {
+			7371 15 
+		}
+		buildings = {
+			7371 = {
+				naval_base = 2
+			}
+			infrastructure = 3
+			
+		}
+	}
+
+	provinces = {
+		7371 
+	}
+
+	local_supplies = 0.0 
+}
