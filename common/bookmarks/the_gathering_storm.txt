@@ -8,7 +8,7 @@ bookmarks = {
 		default = yes
 		
 		"RAJ"={
-			history = "FRA_AFALLING_SPECTRE_DESC"
+			history = "RAJ_AFALLING_SPECTRE_DESC"
 			ideology = neo_liberal
 			ideas = {
 			}
@@ -17,15 +17,15 @@ bookmarks = {
 		}
 		
 		"JAP"={
-			history = "USA_AFALLING_SPECTRE_DESC"
-			ideology = neo_liberal
+			history = "JAP_AFALLING_SPECTRE_DESC"
+			ideology = centrist
 			ideas = {
 			}
 			focuses = {
 			}
 		}
 		"USA"={
-			history = "ENG_AFALLING_SPECTRE_DESC"
+			history = "USA_AFALLING_SPECTRE_DESC"
 			ideology = neo_liberal
 			ideas = {
 			}
@@ -34,8 +34,8 @@ bookmarks = {
 		}
 		
 		"EUF"={
-			history = "GER_AFALLING_SPECTRE_DESC"
-			ideology = fascist
+			history = "EUF_AFALLING_SPECTRE_DESC"
+			ideology = neo_liberal
 			ideas = {
 			}
 			focuses = {
@@ -43,15 +43,15 @@ bookmarks = {
 		}
 		
 		"PRC"={
-			history = "ITA_AFALLING_SPECTRE_DESC"
-			ideology = fascist
+			history = "PRC_AFALLING_SPECTRE_DESC"
+			ideology = moderate_conservative
 			ideas = {
 			}	
 			focuses = {
 			}		
 		}
 		"URB"={
-			history = "JAP_AFALLING_SPECTRE_DESC"
+			history = "URB_AFALLING_SPECTRE_DESC"
 			ideology = moderate_conservative
 			ideas = {
 			}	
@@ -59,7 +59,7 @@ bookmarks = {
 			}			
 		}
 		"BRA"={
-			history = "SOV_AFALLING_SPECTRE_DESC"
+			history = "BRA_AFALLING_SPECTRE_DESC"
 			ideology = communist
 			ideas = {
 			}
