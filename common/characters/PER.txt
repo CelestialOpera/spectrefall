@@ -1,0 +1,18 @@
+characters={
+
+	PER_saman_najafi ={ #
+		name=PER_saman_najafi 
+		portraits={
+			civilian={
+				large="gfx/leaders/PER/Saman_Najafi.dds"
+			}
+		}
+		country_leader={
+			ideology=moderate_conservative_ideology
+			traits={ }
+			expire="2064.1.1.1"
+			id=-1
+		}
+	}
+
+}

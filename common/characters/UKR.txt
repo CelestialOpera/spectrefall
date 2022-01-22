@@ -1,0 +1,18 @@
+characters={
+
+	UKR_petro_ivanovych_levchenko = {  #Petro Ivanovych Levchenko
+		name=UKR_petro_ivanovych_levchenko
+		portraits={
+			civilian={
+				large="gfx/leaders/UKR/Petro_Ivanovych_Levchenko.dds"
+			}
+		}
+		country_leader={
+			ideology=moderate_conservative_ideology
+			traits={ }
+			expire="2064.1.1.1"
+			id=-1
+		}
+	}
+
+}

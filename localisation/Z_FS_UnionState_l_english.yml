@@ -37,3 +37,28 @@
  
  
  #Leaders
+ URB_mikhail_ivanovich_sokolov:0 "Mikhail Ivanovich Sokolov"
+ 
+ #Parties
+ URB_fascist_party:0 "NatSal Front"
+ URB_fascist_party_long:0 "Front Natsional`nogo Spaseniya - National Salvation Front" #A reformed National Salvation Front, will include some communist dissenters but also Front of National Revolutionary Action and National Republican Party of Russia
+ URB_new_world_theorist_party:0 "Yevraziyskaya"
+ URB_new_world_theorist_party_long:0 "Yevraziyskaya Vecherinka - Eurasian Party" #Succeeded from Duginite wing of NatBol party, they likely work closely with the NatSal Front.
+ URB_reactionary_autocrat_party:0 "LDPR"
+ URB_reactionary_autocrat_party_long:0 "Liberal`no-demokraticheskaya Partiya Rossii - Liberal Democratic Party of Russia"
+ URB_sovereign_democrat_party:0 "Fatherland"
+ URB_sovereign_democrat_party_long:0 "Vsesoyuznaya partiya Otechestva - All-Union Fatherland Party"  #Descended from the Fatherland - All Russia Party
+ URB_moderate_conservative_party:0 "Democratic Choice"
+ URB_moderate_conservative_party_long:0 "Partiya Demokraticheskogo Vybora Soyuznogo Gosudarstva - Democratic Choice Party of The Union State"
+ URB_centrist_party:0 "United Union"
+ URB_centrist_party_long:0 "Partiya Ob`yedinennogo Soyuza - United Union Party" #Descended from Unity (OTL this became United Russia)
+ URB_neo_liberal_party:0 "Yabloko"
+ URB_neo_liberal_party_long:0 "Ob`yedinennaya Demokraticheskaya Partiya - United Democratic Party"
+ URB_progressive_party:0 "Levyy Blok"
+ URB_progressive_party_long:0 "Yedinaya Levyy Blok - United Left Bloc"
+ URB_socialist_party:0 "Novoy Revolyutsii"
+ URB_socialist_party_long:0 "Partiya Novoy Revolyutsii - New Revolution Party"
+ URB_neo_leftist_party:0 "NazBol" 
+ URB_neo_leftist_party_long:0 "Natsional-Bolshevistskaya Partiya - National Bolshevik Party" #The Liminovite Wing of the Party, based more in punk attitude, progressive, socialist, but very nationalistic
+ URB_communist_party:0 "KPSG"
+ URB_communist_party_long:0 "Kommunisticheskaya Partiya Soyuznogo Gosudarstva - Communist Party of the Union State"

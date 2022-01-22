@@ -1,0 +1,47 @@
+﻿l_english:
+ 
+ #Country Name
+ PRC_fascist:0 "People's Republic of China"
+ PRC_fascist_DEF:0 "The People's Republic of China"
+ PRC_fascist_ADJ:0 "Chinese"
+ PRC_new_world_theorist:0 "People's Republic of China"
+ PRC_new_world_theorist_DEF:0 "The People's Republic of China"
+ PRC_new_world_theorist_ADJ:0 "Chinese"
+ PRC_reactionary_autocrat:0 "People's Republic of China"
+ PRC_reactionary_autocrat_DEF:0 "The People's Republic of China"
+ PRC_reactionary_autocrat_ADJ:0 "Chinese"
+ PRC_sovereign_democrat:0 "People's Republic of China"
+ PRC_sovereign_democrat_DEF:0 "The People's Republic of China"
+ PRC_sovereign_democrat_ADJ:0 "Chinese"
+ PRC_moderate_conservative:0 "People's Republic of China"
+ PRC_moderate_conservative_DEF:0 "The People's Republic of China"
+ PRC_moderate_conservative_ADJ:0 "Chinese"
+ PRC_centrist:0 "People's Republic of China"
+ PRC_centrist_DEF:0 "The People's Republic of China"
+ PRC_centrist_ADJ:0 "Chinese"
+ PRC_neo_liberal:0 "People's Republic of China"
+ PRC_neo_liberal_DEF:0 "The People's Republic of China"
+ PRC_neo_liberal_ADJ:0 "Chinese"
+ PRC_progressive:0 "People's Republic of China"
+ PRC_progressive_DEF:0 "The People's Republic of China"
+ PRC_progressive_ADJ:0 "Chinese"
+ PRC_socialist:0 "People's Republic of China"
+ PRC_socialist_DEF:0 "The People's Republic of China"
+ PRC_socialist_ADJ:0 "Chinese"
+ PRC_neo_leftist:0 "People's Republic of China"
+ PRC_neo_leftist_DEF:0 "The People's Republic of China"
+ PRC_neo_leftist_ADJ:0 "Chinese"
+ PRC_communist:0 "People's Republic of China"
+ PRC_communist_DEF:0 "The People's Republic of China"
+ PRC_communist_ADJ:0 "Chinese"
+ 
+ #LEaders
+ 
+ #Parties
+ PRC_communist_party:0 "CCP(Maoists)"
+ PRC_communist_party_long:0 "Zhongguó Gòngchandang - Chinese Communist Party(Maoists)"
+ 
+ PRC_moderate_conservative_party:0 "CCP(Reformists)"
+ PRC_moderate_conservative_party_long:0 "Zhongguó Gòngchandang - Chinese Communist Party(Reformists)"
+ PRC_sovereign_democrat_party:0 "CCP(Neo-Dengists)"
+ PRC_sovereign_democrat_party_long:0 "Zhongguó Gòngchandang - Chinese Communist Party(Neo-Dengists)"

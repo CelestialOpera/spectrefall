@@ -1,0 +1,18 @@
+characters={
+
+	AFG_mohammad_yaqoob ={  #Mohammad Yaqoob
+		name=AFG_mohammad_yaqoob 
+		portraits={
+			civilian={
+				large="gfx/leaders/AFG/Mohammad_Yaqoob.dds"
+			}
+		}
+		country_leader={
+			ideology=fascist_ideology
+			traits={ }
+			expire="2064.1.1.1"
+			id=-1
+		}
+	}
+
+}

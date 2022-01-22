@@ -1,0 +1,18 @@
+characters={
+
+	URB_mikhail_ivanovich_sokolov ={ #Mikhail Ivanovich Sokolov
+		name=URB_mikhail_ivanovich_sokolov
+		portraits={
+			civilian={
+				large="gfx/leaders/URB/Mikhail_Ivanovich_Sokolov.dds"
+			}
+		}
+		country_leader={
+			ideology=moderate_conservative_ideology
+			traits={ }
+			expire="2064.1.1.1"
+			id=-1
+		}
+	}
+
+}

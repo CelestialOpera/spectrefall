@@ -12,12 +12,26 @@ set_technology = {
 }
 
 set_convoys = 10
+
+recruit_character = PER_saman_najafi
+
 set_politics = {
-	ruling_party = reactionary_autocrat
+	ruling_party = moderate_conservative
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
+
 set_popularities = {
-	reactionary_autocrat = 100
+	communist = 9
+	neo_leftist = 5
+	socialist = 8
+	progressive = 14
+	neo_liberal = 10
+	centrist = 10
+	moderate_conservative = 16
+	sovereign_democrat = 14
+	reactionary_autocrat = 12
+	new_world_theorist = 1
+	fascist = 1
 }

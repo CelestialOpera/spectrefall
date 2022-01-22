@@ -1,0 +1,41 @@
+﻿l_english:
+ 
+ #Country Name
+ PER_fascist:0 "Islamic Republic of Iran"
+ PER_fascist_DEF:0 "The Islamic Republic of Iran"
+ PER_fascist_ADJ:0 "Iranian"
+ PER_new_world_theorist:0 "Islamic Republic of Iran"
+ PER_new_world_theorist_DEF:0 "The Islamic Republic of Iran"
+ PER_new_world_theorist_ADJ:0 "Iranian"
+ PER_reactionary_autocrat:0 "Islamic Republic of Iran"
+ PER_reactionary_autocrat_DEF:0 "The Islamic Republic of Iran"
+ PER_reactionary_autocrat_ADJ:0 "Iranian"
+ PER_sovereign_democrat:0 "Islamic Republic of Iran"
+ PER_sovereign_democrat_DEF:0 "The Islamic Republic of Iran"
+ PER_sovereign_democrat_ADJ:0 "Iranian"
+ PER_moderate_conservative:0 "Islamic Republic of Iran"
+ PER_moderate_conservative_DEF:0 "The Islamic Republic of Iran"
+ PER_moderate_conservative_ADJ:0 "Iranian"
+ PER_centrist:0 "Islamic Republic of Iran"
+ PER_centrist_DEF:0 "The Islamic Republic of Iran"
+ PER_centrist_ADJ:0 "Iranian"
+ PER_neo_liberal:0 "Islamic Republic of Iran"
+ PER_neo_liberal_DEF:0 "The Islamic Republic of Iran"
+ PER_neo_liberal_ADJ:0 "Iranian"
+ PER_progressive:0 "Islamic Republic of Iran"
+ PER_progressive_DEF:0 "The Islamic Republic of Iran"
+ PER_progressive_ADJ:0 "Iranian"
+ PER_socialist:0 "Islamic Republic of Iran"
+ PER_socialist_DEF:0 "The Islamic Republic of Iran"
+ PER_socialist_ADJ:0 "Iranian"
+ PER_neo_leftist:0 "Islamic Republic of Iran"
+ PER_neo_leftist_DEF:0 "The Islamic Republic of Iran"
+ PER_neo_leftist_ADJ:0 "Iranian"
+ PER_communist:0 "Islamic Republic of Iran"
+ PER_communist_DEF:0 "The Islamic Republic of Iran"
+ PER_communist_ADJ:0 "Iranian"
+ #Leaders
+ PER_saman_najafi:0 "Saman Najafi"
+ 
+ #Parties
+ 

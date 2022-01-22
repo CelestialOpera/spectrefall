@@ -22,14 +22,25 @@ if = {
 
 set_convoys = 5
 
+recruit_character = IRQ_muqtada_al_sadr
 
 set_politics = {
-	ruling_party = reactionary_autocrat
+	ruling_party = sovereign_democrat
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
+
 set_popularities = {
-	fascist = 20
-	reactionary_autocrat = 80
+	communist = 19
+	neo_leftist = 3
+	socialist = 12
+	progressive = 1
+	neo_liberal = 9
+	centrist = 5
+	moderate_conservative = 11
+	sovereign_democrat = 20
+	reactionary_autocrat = 5
+	new_world_theorist = 10
+	fascist = 5
 }

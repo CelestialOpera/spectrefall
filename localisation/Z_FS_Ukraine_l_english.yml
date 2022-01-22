@@ -1,0 +1,56 @@
+﻿l_english:
+ 
+ #Country Name
+ UKR_fascist:0 "Ukraine"
+ UKR_fascist_DEF:0 "Ukraine"
+ UKR_fascist_ADJ:0 "Ukrainian"
+ UKR_new_world_theorist:0 "Ukraine"
+ UKR_new_world_theorist_DEF:0 "Ukraine"
+ UKR_new_world_theorist_ADJ:0 "Ukrainian"
+ UKR_reactionary_autocrat:0 "Ukraine"
+ UKR_reactionary_autocrat_DEF:0 "Ukraine"
+ UKR_reactionary_autocrat_ADJ:0 "Ukrainian"
+ UKR_sovereign_democrat:0 "Ukraine"
+ UKR_sovereign_democrat_DEF:0 "Ukraine"
+ UKR_sovereign_democrat_ADJ:0 "Ukrainian"
+ UKR_moderate_conservative:0 "Ukraine"
+ UKR_moderate_conservative_DEF:0 "Ukraine"
+ UKR_moderate_conservative_ADJ:0 "Ukrainian"
+ UKR_centrist:0 "Ukraine"
+ UKR_centrist_DEF:0 "Ukraine"
+ UKR_centrist_ADJ:0 "Ukrainian"
+ UKR_neo_liberal:0 "Ukraine"
+ UKR_neo_liberal_DEF:0 "Ukraine"
+ UKR_neo_liberal_ADJ:0 "Ukrainian"
+ UKR_progressive:0 "Ukraine"
+ UKR_progressive_DEF:0 "Ukraine"
+ UKR_progressive_ADJ:0 "Ukrainian"
+ UKR_socialist:0 "Ukraine"
+ UKR_socialist_DEF:0 "Ukraine"
+ UKR_socialist_ADJ:0 "Ukrainian"
+ UKR_neo_leftist:0 "Ukraine"
+ UKR_neo_leftist_DEF:0 "Ukraine"
+ UKR_neo_leftist_ADJ:0 "Ukrainian"
+ UKR_communist:0 "Ukraine"
+ UKR_communist_DEF:0 "Ukraine"
+ UKR_communist_ADJ:0 "Ukrainian"
+ #Leaders
+ UKR_petro_ivanovych_levchenko:0 "Petro Ivanovych Levchenko"
+ 
+ #Parties
+ UKR_communist_party:0 "KPRS"
+ UKR_communist_party_long:0 "Komunistychna Partiya Robitnykiv i Selian - Communist Party of Workers and Peasants"
+ 
+ 
+ UKR_socialist_party:0 "Komunistychna"
+ UKR_socialist_party_long:0 "Komunistychna partiya Ukrayiny - Communist Party of Ukraine"
+ UKR_progressive_party:0 "Greens"
+ UKR_progressive_party_long:0 "Partija Zelenykh Ukrainy - Party of Greens of Ukraine"
+ 
+ UKR_centrist_party:0 "Rukh"
+ UKR_centrist_party_long:0 "Narodnyi Rukh Ukrajiny - People's Movement of Ukraine"
+ UKR_moderate_conservative_party:0 "RKP"
+ UKR_moderate_conservative_party_long:0 "Respublikans`ka Khrystyyans`ka Partiya - Republican Christian Party"
+ 
+ UKR_fascist_party:0 "Tryzub"
+ UKR_fascist_party_long:0 "Vseukrayins`ka Orhanizatsiya `Tryzub` - All-Ukrainian organization `Trident`"

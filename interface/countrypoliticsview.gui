@@ -937,7 +937,7 @@ guiTypes = {
 		containerWindowType = {
 		    name = "traits_container"
 		    position = { x = 84 y = 0 }	
-		    show_position = { x = 0 y = 0 }
+		    show_position = { x = 0 y = 380 }
 			size = { width=170 height=100%% }
 			
 			instantTextboxType = {
@@ -1034,8 +1034,8 @@ guiTypes = {
 	
 	containerWindowType = {
 		name = "manage_subjects_window"
-		position = { x = -356 y = 80 }	
-		show_position = { x = 537 y = 80 }
+		position = { x = -356 y = 380 }	
+		show_position = { x = 537 y = 380 }
 		show_animation_type = decelerated
 		hide_animation_type = accelerated
 		animation_time = 300
@@ -1217,8 +1217,8 @@ guiTypes = {
 
 	containerWindowType = {
 		name = "exiles_window"
-		position = { x = -356 y = 80 }	
-		show_position = { x = 537 y = 80 }
+		position = { x = -356 y = 380 }	
+		show_position = { x = 537 y = 380 }
 		show_animation_type = decelerated
 		hide_animation_type = accelerated
 		animation_time = 300
@@ -1233,8 +1233,8 @@ guiTypes = {
 	
 		containerWindowType = {
 			name = "exile_items_window"
-			position = { x = -356 y = 78 }	
-			show_position = { x = 2 y = 37 }
+			position = { x = -356 y = 378 }	
+			show_position = { x = 2 y = 337 }
 			show_animation_type = decelerated
 			hide_animation_type = accelerated
 			size = { width=548 height=100%% }
@@ -1551,8 +1551,8 @@ guiTypes = {
 	
 	containerWindowType = {
 		name = "manage_occupied_window"
-		position = { x = -356 y = 80 }	
-		show_position = { x = 537 y = 80 }
+		position = { x = -356 y = 380 }	
+		show_position = { x = 537 y = 380 }
 		show_animation_type = decelerated
 		hide_animation_type = accelerated
 		animation_time = 300
@@ -1596,8 +1596,8 @@ guiTypes = {
 		
 	containerWindowType = {
 		name = "occupied_entries_window"
-		position = { x = -356 y = 78 }	
-		show_position = { x = 2 y = 37 }
+		position = { x = -356 y = 378 }	
+		show_position = { x = 2 y = 337 }
 		show_animation_type = decelerated
 		hide_animation_type = accelerated
 		size = { width=548 height=100%% }

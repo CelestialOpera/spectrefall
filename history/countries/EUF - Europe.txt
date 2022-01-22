@@ -96,6 +96,9 @@ if = {
 }
 set_convoys = 500
 
+puppet = CAY
+puppet = GRN
+
 recruit_character = EUF_sophie_hermans
 
 set_politics = {

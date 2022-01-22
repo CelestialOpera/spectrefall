@@ -115,6 +115,8 @@ puppet = KAZ
 
 set_convoys = 50
 
+recruit_character = URB_mikhail_ivanovich_sokolov
+
 set_politics = {
 	ruling_party = moderate_conservative
 	last_election = "1933.7.1"
@@ -122,9 +124,17 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	neo_liberal = 10
+	communist = 17
+	neo_leftist = 11
+	socialist = 4
+	progressive = 6
+	neo_liberal = 5
+	centrist = 2
+	moderate_conservative = 18
+	sovereign_democrat = 20
+	reactionary_autocrat = 6
+	new_world_theorist = 9
 	fascist = 2
-	communist = 88
 }
 
 
