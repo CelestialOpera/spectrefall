@@ -36,3 +36,28 @@
  ARU_communist_ADJ:0 "East African"
  
  #Leaders
+ ARU_joseph_auma:0 "Joseph Auma"
+ 
+ #Parties
+ ARU_communist_party:0 "CPEA(Radicals)"
+ ARU_communist_party_long:0 "Communist Party of the East African Federation(Radical Branch)"
+ ARU_neo_leftist_party:0 "EAURY"
+ ARU_neo_leftist_party_long:0 "East African Union of Revolutionary Youth"
+ ARU_socialist_party:0 "CPEA(Democrats)"
+ ARU_socialist_party_long:0 "Communist Party of the East African Federation(Democratic Branch)"
+ ARU_progressive_party:0 "Arusha Clique"
+ ARU_progressive_party_long:0 "Arusha Military Clique"
+ ARU_neo_liberal_party:0 "OPODP"
+ ARU_neo_liberal_party_long:0 "One People, One Destiny Party"
+ ARU_centrist_party:0 "Liberals"
+ ARU_centrist_party_long:0 "Liberal Party of East Africa"
+ ARU_moderate_conservative_party:0 "Union Party"
+ ARU_moderate_conservative_party_long:0 "East African Union Party"
+ ARU_sovereign_democrat_party:0 "Duma Clique"
+ ARU_sovereign_democrat_party_long:0 "Duma Military Clique" #Melvin Duma
+ ARU_reactionary_autocrat_party:0 "Yahya Clique"
+ ARU_reactionary_autocrat_party_long:0 "Yahya Military Clique" #Frederick Yahya
+ ARU_new_world_theorist_party:0 "Alkebulan"
+ ARU_new_world_theorist_party_long:0 "Children of Alkebulan"
+ ARU_fascist_party:0 "Okafor Clique" #Thomas Okafor is a ex-General of the East African Federation who initially joined Auma and the Arusha government however after some time split and became a warlord in the Arusha country side. 
+ ARU_fascist_party_long:0 "Okafor Military Clique" #Okafor's clique tends to still work alongside the Arusha Clique forces but they are not aligned completely.

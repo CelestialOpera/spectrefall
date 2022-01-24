@@ -1,4 +1,4 @@
-﻿capital = 622
+﻿capital = 608
 
 oob = "PRC_1936"
 
@@ -10,7 +10,9 @@ set_technology = {
 set_stability = 0.6
 set_war_support = 0.7
 
+recruit_character = PRC_liu_hongjian
 
+puppet = CHI
 
 set_politics = {
 	ruling_party = moderate_conservative

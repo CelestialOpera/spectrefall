@@ -36,12 +36,15 @@
  PRC_communist_ADJ:0 "Chinese"
  
  #LEaders
- 
+ PRC_liu_hongjian:0 "Liu Hongjian"
  #Parties
- PRC_communist_party:0 "CCP(Maoists)"
- PRC_communist_party_long:0 "Zhongguó Gòngchandang - Chinese Communist Party(Maoists)"
+ PRC_communist_party:0 "CCP(Young Maoists)"
+ PRC_communist_party_long:0 "Zhongguó Gòngchandang - Chinese Communist Party(Young Maoists)"
  
- PRC_moderate_conservative_party:0 "CCP(Reformists)"
- PRC_moderate_conservative_party_long:0 "Zhongguó Gòngchandang - Chinese Communist Party(Reformists)"
- PRC_sovereign_democrat_party:0 "CCP(Neo-Dengists)"
- PRC_sovereign_democrat_party_long:0 "Zhongguó Gòngchandang - Chinese Communist Party(Neo-Dengists)"
+ PRC_socialist_party:0 "CCP(Chongqing)"
+ PRC_socialist_party_long:0 "Zhongguó Gòngchandang - Chinese Communist Party(Chongqing Clique)"
+ 
+ PRC_moderate_conservative_party:0 "CCP(Kunming)"
+ PRC_moderate_conservative_party_long:0 "Zhongguó Gòngchandang - Chinese Communist Party(Kunming Clique)"
+ PRC_sovereign_democrat_party:0 "CCP(Princelings)"
+ PRC_sovereign_democrat_party_long:0 "Zhongguó Gòngchandang - Chinese Communist Party(Princelings)"

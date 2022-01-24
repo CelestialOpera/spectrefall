@@ -1,10 +1,10 @@
 characters={
 
-	PRC_liu_hongjian ={ #Liu Hongjian
-		name=PRC_liu_hongjian
+	CHI_simon_ye ={  #Simon Ye
+		name=CHI_simon_ye 
 		portraits={
 			civilian={
-				large="gfx/leaders/PRC/Liu_Hongjian.dds"
+				large="gfx/leaders/CHI/Simon_Ye.dds"
 			}
 		}
 		country_leader={

@@ -1,0 +1,18 @@
+characters={
+
+	DPK_kim_yo_jong ={ #Kim Yo-jong
+		name=DPK_kim_yo_jong
+		portraits={
+			civilian={
+				large="gfx/leaders/DPK/Kim_Yo_jong.dds"
+			}
+		}
+		country_leader={
+			ideology=communist_ideology
+			traits={ }
+			expire="2064.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -9,6 +9,8 @@ set_technology = {
 
 set_convoys = 5
 
+recruit_character = DPK_kim_yo_jong
+
 set_politics = {
 	ruling_party = communist
 	last_election = "1936.1.1"

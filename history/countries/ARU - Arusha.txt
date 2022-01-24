@@ -10,6 +10,8 @@ set_technology = {
 
 set_convoys = 25
 
+recruit_character = ARU_joseph_auma
+
 set_politics = {
 	ruling_party = progressive #But a military dictatorship
 	last_election = "1936.1.1"
@@ -18,15 +20,15 @@ set_politics = {
 }
 
 set_popularities = {
-	communist = 0
-	neo_leftist = 0
-	socialist = 0
-	progressive = 100
-	neo_liberal = 0
-	centrist = 0
-	moderate_conservative = 0
-	sovereign_democrat = 0
-	reactionary_autocrat = 0
-	new_world_theorist = 0
-	fascist = 0
+	communist = 13
+	neo_leftist = 9
+	socialist = 5
+	progressive = 43
+	neo_liberal = 1
+	centrist = 1
+	moderate_conservative = 4
+	sovereign_democrat = 11
+	reactionary_autocrat = 1
+	new_world_theorist = 9
+	fascist = 3
 }

@@ -1,0 +1,18 @@
+characters={
+
+	ARU_joseph_auma ={  #Joseph Auma
+		name=ARU_joseph_auma 
+		portraits={
+			civilian={
+				large="gfx/leaders/ARU/Joseph_Auma.dds"
+			}
+		}
+		country_leader={
+			ideology=progressive_ideology
+			traits={ }
+			expire="2064.1.1.1"
+			id=-1
+		}
+	}
+
+}

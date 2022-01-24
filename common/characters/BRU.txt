@@ -1,0 +1,18 @@
+characters={
+
+	BRU_sultan_al_muhtadee_billah ={  #Sultan Al-Muhtadee Billah
+		name=BRU_sultan_al_muhtadee_billah 
+		portraits={
+			civilian={
+				large="gfx/leaders/BRU/Sultan_Al_Muhtadee_Billah.dds"
+			}
+		}
+		country_leader={
+			ideology=reactionary_autocrat_ideology
+			traits={ }
+			expire="2064.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -226,12 +226,12 @@ PRU = {
 	color_ui = rgb { 255 246 255 }
 }
 SAF = {
-	color = rgb { 195 107 160 }
-	color_ui = rgb { 198 169 248 }
+	color = rgb { 147 124 62 }
+	color_ui = rgb { 147 124 62 }
 }
 SAU = {
-	color = rgb { 171 190 152 }
-	color_ui = rgb { 222 247 198 }
+	color = rgb { 14 104 58 }
+	color_ui = rgb { 14 104 58 }
 }
 SIA = {
 	color = rgb { 171 190 152 }
@@ -388,8 +388,8 @@ GEO = {
 }
 
 ARM = {
-	color = rgb { 176  102  180 }
-	color_ui = rgb { 176  102  180 }
+	color = rgb { 151  42  36 }
+	color_ui = rgb { 151  42  36 }
 }
 
 LAO = {
