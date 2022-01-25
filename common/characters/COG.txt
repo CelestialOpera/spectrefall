@@ -1,0 +1,18 @@
+characters={
+
+	COG_david_okitundu={ #David Okitundu
+		name=COG_david_okitundu
+		portraits={
+			civilian={
+				large="gfx/leaders/COG/David_Okitundu.dds"
+			}
+		}
+		country_leader={
+			ideology=neo_liberal_ideology
+			traits={ }
+			expire="2064.1.1.1"
+			id=-1
+		}
+	}
+
+}

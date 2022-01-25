@@ -3,6 +3,11 @@ MAL_UK = {
     color_ui = rgb { 255 73 121 }
 }
 
+KAZ_URBFed = {
+    color = rgb { 104 111 119 }
+    color_ui = rgb { 104 111 119 }
+}
+
 RAJ_UK = {
 	color = rgb { 170  10  10 }
 	color_ui = rgb { 200  10  10 }

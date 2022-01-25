@@ -41,10 +41,10 @@ if = {
 	}
 }
 
-
+recruit_character = GRN_aippaq_kallsberg
 
 set_politics = {
-	ruling_party = progressive
+	ruling_party = socialist
 	last_election = "1935.10.22"
 	election_frequency = 48
 	elections_allowed = no
@@ -52,8 +52,8 @@ set_politics = {
 set_popularities = {
 	communist = 0
 	neo_leftist = 0
-	socialist = 0
-	progressive = 100
+	socialist = 100
+	progressive = 0
 	neo_liberal = 0
 	centrist = 0
 	moderate_conservative = 0

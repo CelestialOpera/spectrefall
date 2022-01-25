@@ -1,0 +1,18 @@
+characters={
+
+	CAN_Pierre_Poilievre ={  #Pierre Poilievre
+		name=CAN_Pierre_Poilievre 
+		portraits={
+			civilian={
+				large="gfx/leaders/CAN/Pierre_Poilievre.dds"
+			}
+		}
+		country_leader={
+			ideology=moderate_conservative_ideology
+			traits={ }
+			expire="2064.1.1.1"
+			id=-1
+		}
+	}
+
+}

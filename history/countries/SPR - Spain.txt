@@ -59,13 +59,28 @@ if = {
 	}
 }
 
-set_politics = {
-	ruling_party = neo_liberal
-	last_election = "1933.2.16"
-	election_frequency = 36
-	elections_allowed = yes
-}
-
 set_convoys = 150
 set_stability = 0.5
+
+recruit_character = SPR_pablo_casado
+
+set_politics = {
+	ruling_party = moderate_conservative
+	last_election = "1932.11.8"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	communist = 0
+	neo_leftist = 0
+	socialist = 0
+	progressive = 0
+	neo_liberal = 0
+	centrist = 0
+	moderate_conservative = 100
+	sovereign_democrat = 0
+	reactionary_autocrat = 0
+	new_world_theorist = 0
+	fascist = 0
+}
 

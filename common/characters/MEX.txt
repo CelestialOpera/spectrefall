@@ -1,0 +1,18 @@
+characters={
+
+	MEX_mario_martin_delgado ={  #Mario Martín Delgado
+		name=MEX_mario_martin_delgado 
+		portraits={
+			civilian={
+				large="gfx/leaders/MEX/Mario_Martin_Delgado.dds"
+			}
+		}
+		country_leader={
+			ideology=progressive_ideology
+			traits={ }
+			expire="2064.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,45 @@
+﻿l_english:
+ 
+ #Country Name
+ COG_fascist:0 "Democratic Republic of the Congo"
+ COG_fascist_DEF:0 "The Democratic Republic of the Congo"
+ COG_fascist_ADJ:0 "Congolese"
+ COG_new_world_theorist:0 "Democratic Republic of the Congo"
+ COG_new_world_theorist_DEF:0 "The Democratic Republic of the Congo"
+ COG_new_world_theorist_ADJ:0 "Congolese"
+ COG_reactionary_autocrat:0 "Democratic Republic of the Congo"
+ COG_reactionary_autocrat_DEF:0 "The Democratic Republic of the Congo"
+ COG_reactionary_autocrat_ADJ:0 "Congolese"
+ COG_sovereign_democrat:0 "Democratic Republic of the Congo"
+ COG_sovereign_democrat_DEF:0 "The Democratic Republic of the Congo"
+ COG_sovereign_democrat_ADJ:0 "Congolese"
+ COG_moderate_conservative:0 "Democratic Republic of the Congo"
+ COG_moderate_conservative_DEF:0 "The Democratic Republic of the Congo"
+ COG_moderate_conservative_ADJ:0 "Congolese"
+ COG_centrist:0 "Democratic Republic of the Congo"
+ COG_centrist_DEF:0 "The Democratic Republic of the Congo"
+ COG_centrist_ADJ:0 "Congolese"
+ COG_neo_liberal:0 "Democratic Republic of the Congo"
+ COG_neo_liberal_DEF:0 "The Democratic Republic of the Congo"
+ COG_neo_liberal_ADJ:0 "Congolese"
+ COG_progressive:0 "Democratic Republic of the Congo"
+ COG_progressive_DEF:0 "The Democratic Republic of the Congo"
+ COG_progressive_ADJ:0 "Congolese"
+ COG_socialist:0 "Democratic Republic of the Congo"
+ COG_socialist_DEF:0 "The Democratic Republic of the Congo"
+ COG_socialist_ADJ:0 "Congolese"
+ COG_neo_leftist:0 "Democratic Republic of the Congo"
+ COG_neo_leftist_DEF:0 "The Democratic Republic of the Congo"
+ COG_neo_leftist_ADJ:0 "Congolese"
+ COG_communist:0 "Democratic Republic of the Congo"
+ COG_communist_DEF:0 "The Democratic Republic of the Congo"
+ COG_communist_ADJ:0 "Congolese"
+ 
+ #LEaders
+ 
+ COG_david_okitundu:0 "David Okitundu"
+ 
+ #Parties
+ 
+ COG_neo_liberal_party:0 "RassCongo"
+ COG_neo_liberal_party_long:0 "Rassemblement Congolais pour la Démocratie - Rally for Congolese Democracy"

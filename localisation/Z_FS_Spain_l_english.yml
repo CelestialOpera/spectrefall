@@ -1,0 +1,46 @@
+﻿l_english:
+ 
+ #Country Name
+ SPR_fascist:0 "Kingdom of Spain"
+ SPR_fascist_DEF:0 "The Kingdom of Spain"
+ SPR_fascist_ADJ:0 "Spanish"
+ SPR_new_world_theorist:0 "Kingdom of Spain"
+ SPR_new_world_theorist_DEF:0 "The Kingdom of Spain"
+ SPR_new_world_theorist_ADJ:0 "Spanish"
+ SPR_reactionary_autocrat:0 "Kingdom of Spain"
+ SPR_reactionary_autocrat_DEF:0 "The Kingdom of Spain"
+ SPR_reactionary_autocrat_ADJ:0 "Spanish"
+ SPR_sovereign_democrat:0 "Kingdom of Spain"
+ SPR_sovereign_democrat_DEF:0 "The Kingdom of Spain"
+ SPR_sovereign_democrat_ADJ:0 "Spanish"
+ SPR_moderate_conservative:0 "Kingdom of Spain"
+ SPR_moderate_conservative_DEF:0 "The Kingdom of Spain"
+ SPR_moderate_conservative_ADJ:0 "Spanish"
+ SPR_centrist:0 "Kingdom of Spain"
+ SPR_centrist_DEF:0 "The Kingdom of Spain"
+ SPR_centrist_ADJ:0 "Spanish"
+ SPR_neo_liberal:0 "Kingdom of Spain"
+ SPR_neo_liberal_DEF:0 "The Kingdom of Spain"
+ SPR_neo_liberal_ADJ:0 "Spanish"
+ SPR_progressive:0 "Kingdom of Spain"
+ SPR_progressive_DEF:0 "The Kingdom of Spain"
+ SPR_progressive_ADJ:0 "Spanish"
+ SPR_socialist:0 "Kingdom of Spain"
+ SPR_socialist_DEF:0 "The Kingdom of Spain"
+ SPR_socialist_ADJ:0 "Spanish"
+ SPR_neo_leftist:0 "Kingdom of Spain"
+ SPR_neo_leftist_DEF:0 "The Kingdom of Spain"
+ SPR_neo_leftist_ADJ:0 "Spanish"
+ SPR_communist:0 "Kingdom of Spain"
+ SPR_communist_DEF:0 "The Kingdom of Spain"
+ SPR_communist_ADJ:0 "Spanish"
+ 
+ #Leaders
+ SPR_pablo_casado:0 "Pablo Casado"
+ 
+ #Parties
+ 
+ SPR_moderate_conservative_party:0 "PP(ChristDems)"
+ SPR_moderate_conservative_party_long:0 "Partido Popular - People`s Party(Christian Democrats)"
+ SPR_sovereign_democrat_party:0 "PP(Nacionalistas)"
+ SPR_sovereign_democrat_party_long:0 "Partido Popular - People`s Party(Nationalist Wing)"

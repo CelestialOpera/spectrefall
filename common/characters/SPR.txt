@@ -1,0 +1,18 @@
+characters={
+
+	SPR_pablo_casado={ #Pablo Casado
+		name=SPR_pablo_casado
+		portraits={
+			civilian={
+				large="gfx/leaders/SPR/Pablo_Casado.dds"
+			}
+		}
+		country_leader={
+			ideology=moderate_conservative_ideology
+			traits={ }
+			expire="2064.1.1.1"
+			id=-1
+		}
+	}
+
+}

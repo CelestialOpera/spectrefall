@@ -1,0 +1,55 @@
+﻿l_english:
+ 
+ #Country Name
+ JAP_fascist:0 "Japan"
+ JAP_fascist_DEF:0 "Japan"
+ JAP_fascist_ADJ:0 "Japanese"
+ JAP_new_world_theorist:0 "Japan"
+ JAP_new_world_theorist_DEF:0 "Japan"
+ JAP_new_world_theorist_ADJ:0 "Japanese"
+ JAP_reactionary_autocrat:0 "Japan"
+ JAP_reactionary_autocrat_DEF:0 "Japan"
+ JAP_reactionary_autocrat_ADJ:0 "Japanese"
+ JAP_sovereign_democrat:0 "Japan"
+ JAP_sovereign_democrat_DEF:0 "Japan"
+ JAP_sovereign_democrat_ADJ:0 "Japanese"
+ JAP_moderate_conservative:0 "Japan"
+ JAP_moderate_conservative_DEF:0 "Japan"
+ JAP_moderate_conservative_ADJ:0 "Japanese"
+ JAP_centrist:0 "Japan"
+ JAP_centrist_DEF:0 "Japan"
+ JAP_centrist_ADJ:0 "Japanese"
+ JAP_neo_liberal:0 "Japan"
+ JAP_neo_liberal_DEF:0 "Japan"
+ JAP_neo_liberal_ADJ:0 "Japanese"
+ JAP_progressive:0 "Japan"
+ JAP_progressive_DEF:0 "Japan"
+ JAP_progressive_ADJ:0 "Japanese"
+ JAP_socialist:0 "Japan"
+ JAP_socialist_DEF:0 "Japan"
+ JAP_socialist_ADJ:0 "Japanese"
+ JAP_neo_leftist:0 "Japan"
+ JAP_neo_leftist_DEF:0 "Japan"
+ JAP_neo_leftist_ADJ:0 "Japanese"
+ JAP_communist:0 "Japan"
+ JAP_communist_DEF:0 "Japan"
+ JAP_communist_ADJ:0 "Japanese"
+ #Leaders
+ JAP_karen_makishima:0 "Karen Makishima"
+ 
+ ##Parties
+ 
+ JAP_neo_leftist_party:0 "Pinku(Radicals)"
+ JAP_neo_leftist_party_long:0 "Pinku~eipati - Pink Way Party(Radicals)" #Pinkuu~eipātī
+ JAP_socialist_party:0 "JCP"
+ JAP_socialist_party_long:0 "Nihon Kyosan-to - Japanese Communist Party"
+ JAP_progressive_party:0 "Pinku(Pink Greens)"
+ JAP_progressive_party_long:0 "Pinku~eipati - Pink Way Party(Pink Greens)"
+ JAP_neo_liberal_party:0 "Minshuto"
+ JAP_neo_liberal_party_long:0 "Minshuto - Democratic Party of Japan"
+ JAP_centrist_party:0 "Jiminto"
+ JAP_centrist_party_long:0 "Jiyu-Minshuto - Liberal Democratic Party"
+ JAP_moderate_conservative_party:0 "Komeito"
+ JAP_moderate_conservative_party_long:0 "Komeito"
+ 
+ 

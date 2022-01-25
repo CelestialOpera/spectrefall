@@ -142,8 +142,8 @@ BRA = {
 	color_ui = rgb { 99 189 82 }
 }
 CAN = {
-	color = rgb { 233  59  59 }
-	color_ui = rgb { 155 62 51 }
+	color = rgb { 119  48  39 }
+	color_ui = rgb { 119  48  39 }
 }
 CHI = {
 	color = hsv { 0.18 0.6 0.9 } #255 244 190
@@ -436,8 +436,8 @@ ANG = {
 }
 
 COG = {
-	color = rgb { 152 159 209 }
-	color_ui = rgb { 152 159 209 }
+	color = rgb { 46 127 244 }
+	color_ui = rgb { 46 127 244 }
 }
 MZB = {
 	color = rgb { 112 62 90 }
@@ -831,6 +831,10 @@ URB = {
 	color = rgb { 104 111 119 }
 	color_ui = rgb { 104 111 119 }
 }
+KAZ = {
+	color = rgb { 104 111 119 }
+	color_ui = rgb { 104 111 119 }
+}
 DPK = {
 	color = rgb { 168  24  49 }
 	color_ui = rgb { 168  24  49 }	
@@ -886,4 +890,8 @@ SEY = {
 MAU = {
 	color = rgb { 25 160 25 }
 	color_ui = rgb { 25 160 25 }	
+}
+GRN = {
+	color = rgb { 192  30  52 }
+	color_ui = rgb { 192  30  52 }
 }

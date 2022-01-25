@@ -1,0 +1,45 @@
+﻿l_english:
+ 
+ #Country Name
+ MEX_fascist:0 "United Mexican States"
+ MEX_fascist_DEF:0 "The United Mexican States"
+ MEX_fascist_ADJ:0 "Mexican"
+ MEX_new_world_theorist:0 "United Mexican States"
+ MEX_new_world_theorist_DEF:0 "The United Mexican States"
+ MEX_new_world_theorist_ADJ:0 "Mexican"
+ MEX_reactionary_autocrat:0 "United Mexican States"
+ MEX_reactionary_autocrat_DEF:0 "The United Mexican States"
+ MEX_reactionary_autocrat_ADJ:0 "Mexican"
+ MEX_sovereign_democrat:0 "United Mexican States"
+ MEX_sovereign_democrat_DEF:0 "The United Mexican States"
+ MEX_sovereign_democrat_ADJ:0 "Mexican"
+ MEX_moderate_conservative:0 "United Mexican States"
+ MEX_moderate_conservative_DEF:0 "The United Mexican States"
+ MEX_moderate_conservative_ADJ:0 "Mexican"
+ MEX_centrist:0 "United Mexican States"
+ MEX_centrist_DEF:0 "The United Mexican States"
+ MEX_centrist_ADJ:0 "Mexican"
+ MEX_neo_liberal:0 "United Mexican States"
+ MEX_neo_liberal_DEF:0 "The United Mexican States"
+ MEX_neo_liberal_ADJ:0 "Mexican"
+ MEX_progressive:0 "United Mexican States"
+ MEX_progressive_DEF:0 "The United Mexican States"
+ MEX_progressive_ADJ:0 "Mexican"
+ MEX_socialist:0 "United Mexican States"
+ MEX_socialist_DEF:0 "The United Mexican States"
+ MEX_socialist_ADJ:0 "Mexican"
+ MEX_neo_leftist:0 "United Mexican States"
+ MEX_neo_leftist_DEF:0 "The United Mexican States"
+ MEX_neo_leftist_ADJ:0 "Mexican"
+ MEX_communist:0 "United Mexican States"
+ MEX_communist_DEF:0 "The United Mexican States"
+ MEX_communist_ADJ:0 "Mexican"
+ 
+ #Leaders
+ MEX_mario_martin_delgado:0 "Mario Martín Delgado"
+ 
+ #Parties
+ MEX_progressive_party:0 "PRD"
+ MEX_progressive_party_long:0 "Partido de la Revolución Democrática - Party of the Democratic Revolution"
+ 
+ 

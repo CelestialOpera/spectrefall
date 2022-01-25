@@ -1,8 +1,8 @@
-﻿capital = 586 #Almaty
+﻿capital = 590
 
 oob = "KAZ_1936"
 
-set_research_slots = 3
+set_research_slots = 2
 
 # Starting tech
 set_technology = {
@@ -79,29 +79,27 @@ if = {
 	}
 }
 
+set_cosmetic_tag = KAZ_URBFed
+
+recruit_character = KAZ_mukhtar_camranov
+
+set_politics = {
+	ruling_party = sovereign_democrat
+	last_election = "1932.11.8"
+	election_frequency = 48
+	elections_allowed = no
+}
+
 set_popularities = {
-	neo_liberal = 60
-	communist = 40
-}
-
-create_country_leader = {
-	name = "Nikolay Aleksandrovich Skvortsov"
-	desc = ""
-	picture = "gfx/leaders/KAZ/portrait_kaz_nikolay_skvortsov.dds"
-	expire = "1953.3.1"
-	ideology = communist_ideology
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Ilyas Zhansugurov"
-	desc = ""
-	picture = "gfx/leaders/KAZ/portrait_kaz_ilyas_zhansugurov.dds"
-	expire = "1953.3.1"
-	ideology = moderate_conservative_ideology
-	traits = {
-		
-	}
+	communist = 0
+	neo_leftist = 0
+	socialist = 0
+	progressive = 0
+	neo_liberal = 100
+	centrist = 0
+	moderate_conservative = 0
+	sovereign_democrat = 0
+	reactionary_autocrat = 0
+	new_world_theorist = 0
+	fascist = 0
 }

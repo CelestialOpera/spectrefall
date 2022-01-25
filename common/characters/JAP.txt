@@ -1,0 +1,18 @@
+characters={
+
+	JAP_karen_makishima={ #Karen Makishima
+		name=JAP_karen_makishima
+		portraits={
+			civilian={
+				large="gfx/leaders/JAP/Karen_Makishima.dds"
+			}
+		}
+		country_leader={
+			ideology=centrist_ideology
+			traits={ }
+			expire="2064.1.1.1"
+			id=-1
+		}
+	}
+
+}
