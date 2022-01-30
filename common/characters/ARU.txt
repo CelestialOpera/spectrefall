@@ -14,5 +14,35 @@ characters={
 			id=-1
 		}
 	}
+	
+	ARU_thomas_okafor ={  #Thomas Okafor
+		name=ARU_thomas_okafor 
+		portraits={
+			civilian={
+				large="gfx/leaders/ARU/Thomas_Okafor.dds"
+			}
+		}
+		country_leader={
+			ideology=fascist_ideology
+			traits={ }
+			expire="2064.1.1.1"
+			id=-1
+		}
+	}
+	
+	ARU_melvin_duma ={  #Melvin Duma
+		name=ARU_melvin_duma
+		portraits={
+			civilian={
+				large="gfx/leaders/ARU/Melvin_Duma.dds"
+			}
+		}
+		country_leader={
+			ideology=sovereign_democrat_ideology
+			traits={ }
+			expire="2064.1.1.1"
+			id=-1
+		}
+	}
 
 }

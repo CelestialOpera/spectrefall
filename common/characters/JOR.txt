@@ -1,0 +1,18 @@
+characters={
+
+	JOR_king_abdullah_ii={ #King Abdullah II
+		name=JOR_king_abdullah_ii
+		portraits={
+			civilian={
+				large="gfx/leaders/JOR/King_Abdullah_II.dds"
+			}
+		}
+		country_leader={
+			ideology=reactionary_autocrat_ideology
+			traits={ }
+			expire="2064.1.1.1"
+			id=-1
+		}
+	}
+
+}

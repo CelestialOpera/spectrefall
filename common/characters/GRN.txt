@@ -8,7 +8,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=centrist_ideology
+			ideology=socialist_ideology
 			traits={ }
 			expire="2064.1.1.1"
 			id=-1

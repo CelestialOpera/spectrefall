@@ -11,6 +11,8 @@ set_technology = {
 set_convoys = 25
 
 recruit_character = ARU_joseph_auma
+recruit_character = ARU_melvin_duma
+recruit_character = ARU_thomas_okafor
 
 set_politics = {
 	ruling_party = progressive #But a military dictatorship

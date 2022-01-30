@@ -18,63 +18,27 @@ set_technology = {
 	tech_recon = 1
 }
 
+recruit_character = ICE_julina_bryngeirsdottir
 
 set_convoys = 30
 set_stability = 0.75
 
 set_politics = {
 	ruling_party = neo_liberal
-	last_election = "1933.10.16"
-	election_frequency = 36
-	elections_allowed = yes
+	last_election = "1932.11.8"
+	election_frequency = 48
+	elections_allowed = no
 }
 set_popularities = {
-	neo_liberal = 96
-	fascist = 2
-	communist = 2
-}
-
-
-create_country_leader = {
-	name = "Sveinn Björnsson"
-	desc = ""
-	picture = "portrait_ice_sveinn_bjornsson.dds"
-	expire = "1965.1.1"
-	ideology = moderate_conservative_ideology
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Johannes Valurson"
-	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
-	expire = "1965.1.1"
-	ideology = fascist_ideology
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Haraldur Gudmunsson"
-	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
-	expire = "1965.1.1"
-	ideology = centrist_ideology
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Einar Olgeirsson"
-	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_5.dds"
-	expire = "1965.1.1"
-	ideology = communist_ideology
-	traits = {
-		#
-	}
+	communist = 0
+	neo_leftist = 0
+	socialist = 0
+	progressive = 0
+	neo_liberal = 100
+	centrist = 0
+	moderate_conservative = 0
+	sovereign_democrat = 0
+	reactionary_autocrat = 0
+	new_world_theorist = 0
+	fascist = 0
 }

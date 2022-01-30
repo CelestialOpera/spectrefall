@@ -8,58 +8,25 @@ set_technology = {
 
 set_convoys = 5
 
-
+recruit_character = JOR_king_abdullah_ii
 
 
 set_politics = {
 	ruling_party = reactionary_autocrat
-	last_election = "1936.1.1"
+	last_election = "1932.11.8"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	neo_liberal = 25
-	fascist = 20
-	communist = 5
-	reactionary_autocrat = 50
-}
-
-create_country_leader = {
-	name = "Hashim Kheir"
-	desc = ""
-	picture = "gfx/leaders/JOR/Portrait_Arabia_Generic_2.dds"
-	ideology = moderate_conservative_ideology
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Saeed Ahmadi"
-	desc = ""
-	picture = "gfx/leaders/JOR/Portrait_Arabia_Generic_fascist1.dds"
-	ideology = fascist_ideology
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Abdullah bin al-Hussein"
-	desc = ""
-	picture = "gfx/leaders/JOR/Portrait_Arabia_Generic_land_3.dds"
-	ideology = reactionary_autocrat_ideology
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Fu'ad Nassar"
-	desc = ""
-	picture = "gfx/leaders/JOR/Portrait_Arabia_Generic_navy_2.dds"
-	ideology = communist_ideology
-	traits = {
-		#
-	}
+	communist = 0
+	neo_leftist = 0
+	socialist = 0
+	progressive = 0
+	neo_liberal = 0
+	centrist = 0
+	moderate_conservative = 0
+	sovereign_democrat = 0
+	reactionary_autocrat = 100
+	new_world_theorist = 0
+	fascist = 0
 }

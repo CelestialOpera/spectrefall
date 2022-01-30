@@ -1,0 +1,18 @@
+characters={
+
+	ICE_julina_bryngeirsdottir ={ #Júlína Bryngeirsdóttir
+		name=ICE_julina_bryngeirsdottir
+		portraits={
+			civilian={
+				large="gfx/leaders/ICE/Julina_Bryngeirsdottir.dds"
+			}
+		}
+		country_leader={
+			ideology=neo_liberal_ideology
+			traits={ }
+			expire="2064.1.1.1"
+			id=-1
+		}
+	}
+
+}
